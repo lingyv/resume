@@ -24,6 +24,7 @@
 .icon-playlistadd:before { content: "\ecae"; }
 .icon-delete:before { content: "\e61b"; }
 .icon-trophy:before { content: "\e80b"; }
+.icon-location:before { content: "\ec24"; }
 
 span {
     display: inline-block;
